@@ -9,6 +9,21 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: "Personal"
+  icon: "fas fa-personal"
+  path: tabs
+  url: personal
+-  
+  name: "Professional"
+  icon: "fas fa-professional"
+  path: tabs
+  url: professional
+- 
+  name: "Academic"
+  icon: "fas fa-academic"
+  path: tabs
+  url: academic
+-
   name: Categories
   icon: "fas fa-stream"
   path: tabs
@@ -23,8 +38,3 @@
   path: tabs
   url: archives
   icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
