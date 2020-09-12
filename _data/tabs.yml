@@ -13,16 +13,16 @@
   icon: "fas fa-personal"
   path: tabs
   url: personal
--  
-  name: "Professional"
-  icon: "fas fa-professional"
-  path: tabs
-  url: professional
 - 
   name: "Academic"
   icon: "fas fa-academic"
   path: tabs
   url: academic
+-  
+  name: "Professional"
+  icon: "fas fa-professional"
+  path: tabs
+  url: professional
 -
   name: Categories
   icon: "fas fa-stream"
