@@ -26,7 +26,9 @@ title: Personal
         - Books (Tolkien, 1984, Dom Casmurro)
     - Sports
         - Soccer ([Santa Cruz FC](https://en.wikipedia.org/wiki/Santa_Cruz_Futebol_Clube) and Liverpool FC)
+        - Formula One
         - American Football (Green Bay Packers)
+        - NBA
         - All the other
     - Traveling
     - Politics
