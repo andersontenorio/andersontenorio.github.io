@@ -17,9 +17,9 @@ title: Personal
 <br/>
 - Personal interests
     - Computing (Data Analytics, Programming)
-    - Science (Math, History)
+    - Science (Math, Physics, History)
     - Geek
-        - Movies (Pulp Fiction, The Matrix, Ferris Bueller's Day Off)
+        - Movies (Pulp Fiction, The Matrix, The Lord of the Rings, Ferris Bueller's Day Off)
         - TV Shows (Breaking Bad, Rick & Morty, The Office)
         - Games (Final Fantasy, The King of Fighters, Red Dead Redemption)
         - Comics (DC, Vertigo, Alan Moore)

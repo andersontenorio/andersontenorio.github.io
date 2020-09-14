@@ -2,8 +2,10 @@
 title: Processos em Ciência dos Dados
 date: 2020-09-12 12:00:00 -0300
 categories: [Computer Science]
-tags: [machine learning, data science, analytics, artificial intelligence, portugues]     
+tags: [machine learning, data science, analytics, artificial intelligence, português]     
 ---
+
+(You can read this post in [english](/posts/pt_ProcessosCienciaDados))
 
 Em Ciência dos Dados, qual processo podemos utilizar? Como, a partir de uma ou mais fontes de dados, podemos extrair padrões escondidos e construir modelos preditivos? Apesar do termo Ciência dos Dados (do original Data Science, em inglês) ser relativamente novo, a Ciência da Computação já se preocupava com esse tipo de problema há pelo menos duas décadas. Um trabalho acadêmico bastante importante nesse sentido foi o artigo publicado por Fayyad et al., em 1996: “From Data Mining to Knowledge Discovery in Databases” [1]. Os autores inaugurariam o processo então batizado de Descoberta de Conhecimento em Base de Dados (do inglês Knowledge Discovery in Databases — KDD), como pode ser visto na figura abaixo:
 
