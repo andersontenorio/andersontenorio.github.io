@@ -5,6 +5,8 @@ categories: [Computer Science]
 tags: [machine learning, data science, analytics, artificial intelligence, português]     
 ---
 
+(You can read this post in [english](/posts/en_IAStateOfArt))
+
 Segundo a [Wikipedia](https://pt.wikipedia.org/wiki/Estado_da_arte), o Estado da Arte “é o nível mais alto de desenvolvimento, seja de um aparelho, de uma técnica ou de uma área científica, alcançado em um tempo definido”.
 
 Com o crescente interesse em Inteligência Artificial e Data Science nos últimos anos, o número de pesquisas e aplicações nessas áreas aumentou exponencialmente. Seja você um pesquisador e/ou professor, um profissional de TI interessado nesse campo de estudo ou mesmo um curioso desejando aprender mais sobre o que podemos fazer com um sistema inteligente, a tarefa de entender as tendências e últimos avanços nessas áreas do conhecimento em publicações acadêmicas é bastante árdua.
