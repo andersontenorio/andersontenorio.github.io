@@ -53,6 +53,6 @@ By the way, [follow me](https://www.mendeley.com/profiles/anderson-sergio/) ther
 
 PFinally, if you are used to the academic language and modus operandi, maybe it worth visiting the academic journals sites. Here things are a little bit tricky to organize since the number of estimated publications is high and diverse. But once in a while, it would be great to take a look at it. Usually, I visit [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) and Learning Systems and [Neurocomputing](https://www.journals.elsevier.com/neurocomputing). There were plenty of them, so it depends on your preferences. If it's an important paper, it will probably pop up on the previously presented platforms. Note that you have to get access to this kind of content (maybe using a university network).
 
-## Conclusão
+## Conclusion
 
 This post aimed at suggesting means and platforms to follow the main and most recent advances in Artificial Intelligence and Data Science. Many times I can't follow this huge amount of information, however, these are the methods that I use to keep informed. Do you know more sites like these? Share with us!
