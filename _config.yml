@@ -10,7 +10,15 @@
 
 title: Anderson Tenório                         # the main title
 
+<<<<<<< HEAD
 tagline: Random stuff  # it will display as the sub-title
+=======
+<<<<<<< HEAD
+tagline: A text-focused Jekyll theme # it will display as the subtitle
+=======
+tagline: Random stuff  # it will display as the sub-title
+>>>>>>> 825f3fb (changes from origin)
+>>>>>>> c0264638 (changes from commit)
 
 description: >-                        # used by seo meta and the atom feed
     Just another ship in the space.
