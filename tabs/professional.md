@@ -2,7 +2,14 @@
 title: Professional
 ---
 
-**Data Scientist** at [Talkdesk](https://www.talkdesk.com/), since Jul/2020<br/>
+**Technical Data Science Manager** at [CESAR](http://english.cesar.org.br/), since May/2025<br/>
+
+**Professor, Supervisor and Academic Supervisor** at [CESAR School](https://www.cesar.school/), since Jul/2025<br/>
+Professor in Bachelor's Degree in Computer Science, currently teaching Deep Learning and Generative AI<br/>
+Supervisor of Professional Master's in Software Engineering<br/>
+Academic Coordinator for two Postgraduate Certificate Programs: Data Analysis and AI, and Business Innovation<br/>
+
+**Data Scientist** at [Talkdesk](https://www.talkdesk.com/), Jul/2020 to Apr/2024<br/>
 Competences: Research and Development in Data Science projects<br/>
 Main Technologies: Machine Learning, Time Series Forecasting, Python
 
@@ -10,7 +17,7 @@ Main Technologies: Machine Learning, Time Series Forecasting, Python
 Program: Computer Science<br/>
 Course: Graph Theory
 
-**Researcher** at [CESAR](http://english.cesar.org.br/), May/2019 to Jun/2020<br/>
+**Data Science Researcher** at [CESAR](http://english.cesar.org.br/), May/2019 to Jun/2020<br/>
 Competences: Research and Development in Data Science and Software Engineering projects<br/>
 Main : Machine Learning, Python, Java, AWS
 
