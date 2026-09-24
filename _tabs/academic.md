@@ -15,7 +15,7 @@ permalink: /tabs/academic/
 - Time Series Forecasting
 - Evolutionary Computation
 - Swarm Intelligence
-- Philosophy of Artificial Intelligence 
+- Philosophy of Artificial Intelligence
 
 ## Education
 

@@ -33,4 +33,3 @@ permalink: /tabs/personal/
         - Formula One
         - Olympics
     - Traveling
-    
