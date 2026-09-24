@@ -5,11 +5,11 @@ categories: [Computer Science]
 tags: [machine learning, data science, analytics, artificial intelligence, português]     
 ---
 
-(You can read this post in [english](/posts/pt_ProcessosCienciaDados))
+(You can read this post in [English](/posts/en_ProcessesDataScience/).)
 
 Em Ciência dos Dados, qual processo podemos utilizar? Como, a partir de uma ou mais fontes de dados, podemos extrair padrões escondidos e construir modelos preditivos? Apesar do termo Ciência dos Dados (do original Data Science, em inglês) ser relativamente novo, a Ciência da Computação já se preocupava com esse tipo de problema há pelo menos duas décadas. Um trabalho acadêmico bastante importante nesse sentido foi o artigo publicado por Fayyad et al., em 1996: “From Data Mining to Knowledge Discovery in Databases” [1]. Os autores inaugurariam o processo então batizado de Descoberta de Conhecimento em Base de Dados (do inglês Knowledge Discovery in Databases — KDD), como pode ser visto na figura abaixo:
 
-![KDD](../../assets/img/posts/kdd.png)
+![KDD](/assets/img/posts/kdd.png)
 
 Como explicitado na figura, o KDD é composto por cinco etapas, a saber:
 
@@ -29,7 +29,7 @@ O KDD provê uma visão intuitiva e geral do esquema de extração de conhecimen
 
 Nesse sentido, podemos entender a motivação da criação de um outro processo relacionado, chamado CRISP-DM (do inglês CRoss-Industry Standard Process for Data Mining). O CRISP-DM surgiu também em 1996 como um processo aberto de extração de conhecimento em dados, proposto por um consórcio inicialmente composto por cinco grandes empresas [2]. Como pode ser visto na figura abaixo, o CRISP-DM indica de maneira mais adequada como suas diversas etapas se relacionam.
 
-![CRISP-DM](../../assets/img/posts/crispdm.png)
+![CRISP-DM](/assets/img/posts/crispdm.png)
 
 Além de incluir ciclos de feedback em suas diversas fases, o CRISP-DM difere do KDD principalmente em dois aspectos. Primeiro, há uma etapa clara e específica para o importante estágio de entendimento do negócio. É nessa fase que as perguntas são feitas, que o cliente explicita suas necessidades. O processo transita entre o entendimento do negócio e o entendimento dos dados, indicando, por exemplo, que o cliente é de crucial importância no início do processo. Quando o modelo é finalmente construído e avaliado, as atividades podem voltar para o estágio inicial, buscando sempre o desempenho desejado.
 

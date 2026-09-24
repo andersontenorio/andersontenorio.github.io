@@ -21,31 +21,31 @@ arXiv (spelling "archive") is an open e-print repository of various areas of sci
 
 Each of the major fields is divided into a far number of subfields. Below, you can check the available ones in Computer Science.
 
-![arxiv](../../assets/img/posts/arxiv.png)
+![arxiv](/assets/img/posts/arxiv.png)
 
-A controversial aspect of arXiv is the vast number of submitted papers daily. Following all of these publications is practically unfeasible. Then, we can use a few shortcuts to access the ones that are supposed to be more significant. That is precisely the job made by [arXiv Sanity](http://www.arxiv-sanity.com/) (suggestive name, by the way). Based on feedback from the users, arXiv Sanity is capable of bolding the most rated papers, other than showing images and abstracts in a friendly fashion. This platform's author [video](https://www.youtube.com/watch?v=S2GY3gh6qC8&feature=youtu.be&ab_channel=AndrejKarpathy) contains the explanation of a few more features. It's important to note that arXiv Sanity is focused only on AI and Data Science.
+A controversial aspect of arXiv is the vast number of submitted papers daily. Following all of these publications is practically unfeasible. Then, we can use a few shortcuts to access the ones that are supposed to be more significant. That is precisely the job made by [arXiv Sanity](https://www.arxiv-sanity.com/) (suggestive name, by the way). Based on feedback from the users, arXiv Sanity is capable of bolding the most rated papers, other than showing images and abstracts in a friendly fashion. This platform's author [video](https://www.youtube.com/watch?v=S2GY3gh6qC8&feature=youtu.be&ab_channel=AndrejKarpathy) contains the explanation of a few more features. It's important to note that arXiv Sanity is focused only on AI and Data Science.
 
 ## DeepAI
 
 Here we have more straightforward stuff. DeepAI is an aggregator of influent papers and news from traditional media when it comes to Artificial Intelligence. As can be seen in the figure below, the website shows news and academic works that were highlighted in recent days.
 
-![deepai](../../assets/img/posts/deepai.png)
+![deepai](/assets/img/posts/deepai.png)
 
 The definitions tab is a section that I consider quite important. There, it's possible to find concise explanations about relevant topics in AI, like Bayes Theorem and the basics from Neural Networks.
 
-![deepai_neuralnetwork](../../assets/img/posts/deepai_neuralnetwork.png)
+![deepai_neuralnetwork](/assets/img/posts/deepai_neuralnetwork.png)
 
 ## Papers with Code
 
 The name [Papers with Code](https://paperswithcode.com/sota) is suggestive. Also, from the feedback of users, the website indicates papers in various fields of Data Science (additional topics as well), preferably with available source code and dataset. The platform aggregates performance scores of some solutions to a given problem. Below, two works from the section "time series".
 
-![paperswithcode](../../assets/img/posts/paperswithcode.png)
+![paperswithcode](/assets/img/posts/paperswithcode.png)
 
 ## Mendeley
 
 I consider [Mendeley](https://www.mendeley.com/) a social network for academic researchers. As long as other features, the platform includes profile creation, a list of published papers, research groups, and a list of related job positions. It's important to note the suggestion tab. When a user adds a bunch of papers (in PDF format) in his/her library section, as an own reading repository, the platform suggests similar works. I have used Mendeley to organize my reading stack. You can do that on the web as well as a mobile app. Below, the current status of my library.
 
-![mendeley](../../assets/img/posts/mendeley.png)
+![mendeley](/assets/img/posts/mendeley.png)
 
 By the way, [follow me](https://www.mendeley.com/profiles/anderson-sergio/) there.
 

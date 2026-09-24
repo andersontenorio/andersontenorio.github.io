@@ -13,14 +13,14 @@ GDP (Gross Domestic Product) is a measure that represents the sum in monetary va
 
 The original data was extracted from IBGE (Portuguese acronym for the Brazilian Institute of Geography and Statistics) [3]. The database contains the historical series of the GDP variation per semester, from the beginning of 1996 to the end of 2019. The extraction was done by downloading a file in CSV format. The study used data from the last 24 years for this period to represent a more stable range of variation in Brazilian GDP, coinciding with the stabilization of the current currency, in 1994. The prediction of future values for a time series achieves results closer to reality when current patterns do not differ substantially from historical values. Using older data makes certain distortions possible. Below, a figure of the referred data source with the time series plot.
 
-![](../../assets/img/posts/pib1.png)
+![](/assets/img/posts/pib1.png)
 *Fig. 1 - GDP variation quartely variation (1996 to 2019)*
 
 ## Preprocessing
 
 Since we have a one-dimensional time series without missing data, it was not necessary to perform pre-processing operations. However, I will include in this section the analysis of the autocorrelation function (ACF). Autocorrelation refers to the correlation of a signal with its delayed values [4]. In other words, the analysis of this behavior allows us to understand how many past values of a time series influence the future values. The following image shows the autocorrelation function plot for the studied time series.
 
-![](../../assets/img/posts/pib2.png)<br/>
+![](/assets/img/posts/pib2.png)<br/>
 *Fig. 2 - Time series autocorrelation function*
 
 This chart tells us how many past values significantly impact each point in the series. We can extract this information by looking at how many peaks are placed outside the central cone (painted in blue). Thus, we can conclude that, in general, it will be possible to predict the future values of the series by observing at least the four immediately previous values. Besides, the almost regular variation between the positive and negative peaks indicates a short seasonality in the series.
@@ -69,13 +69,13 @@ df = df.iloc[lags:]
 
 In the data mining step, the goal is to use some model or algorithm of statistics or machine learning to obtain predictions. In this study, the model used was the well known linear regression. As usual, the dataset was partitioned between training (60%) and testing (40%). The determination coefficient (R2) in the test database was 96%. This metric is the proportion of the variance of the target variable that is explained by the input variables (the lagged values) [5]. Considering that its maximum value is 100%, the achieved results seem adequate. For a graphical analysis of the predictions, the figures below show the dispersion plots (blue for training and orange for testing) and the comparison between real (blue) and predicted (orange) values in the training and test datasets, respectively.
 
-![](../../assets/img/posts/pib3.png)<br/>
+![](/assets/img/posts/pib3.png)<br/>
 *Fig. 3 - Dispersion plot between expected and predicted values*
 
-![](../../assets/img/posts/pib4.png)
+![](/assets/img/posts/pib4.png)
 *Fig. 4 - Expected (blue) and predicted (orange) values in the training dataset*
 
-![](../../assets/img/posts/pib5.png)
+![](/assets/img/posts/pib5.png)
 *Fig. 5 - Expected (blue) and predicted (orange) values in the test dataset*
 
 ```python

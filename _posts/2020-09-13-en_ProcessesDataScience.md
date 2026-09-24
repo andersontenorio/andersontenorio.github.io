@@ -5,11 +5,11 @@ categories: [Computer Science]
 tags: [machine learning, data science, analytics, artificial intelligence, english]     
 ---
 
-(Você pode ler esse post em [português](/posts/en_ProcessesDataScience))
+(Você pode ler esse post em [português](/posts/pt_ProcessosCienciaDados/).)
 
 In Data Science, which process should one use? From one or more data sources, how can one extract hidden patterns and build predictive models? Despite the Data Science term being somewhat new, Computer Science has already been concerned with this kind of problem for decades. An academic work especially critical in this field was the paper published by Fayyad et al., in 1996: "From Data Mining to Knowledge Discovery in Databases" [1]. The authors initiated the process known as Knowledge Discovery in Databases (KDD), as one can see in the figure below:
 
-![KDD](../../assets/img/posts/kdd.png)
+![KDD](/assets/img/posts/kdd.png)
 
 As shown in the figure, KDD is composed of five steps:
 
@@ -29,7 +29,7 @@ KDD offers an intuitive and general vision of the knowledge extraction scenario.
 
 In this way, we can understand the reasons behind the creation of another related process, called CRISP-DM (CRoss-Industry Standard Process for Data Mining). CRISP-DM also emerged in 1996 as an open process of knowledge extraction in data, proposed by a consortium initially composed of five large companies [2]. As one can see in the figure below, CRISP-DM indicates in a proper way how the different steps are related to each other.
 
-![CRISP-DM](../../assets/img/posts/crispdm.png)
+![CRISP-DM](/assets/img/posts/crispdm.png)
 
 Beyond including feedback cycles in the various steps, CRISP-DM differs from KDD mainly in two aspects. First, there is a clear step in the key stage of business understanding. Questions are made and the customers explain their needs. The process transits between business understanding and data understanding. This indicates that the importance of the customer is crucial. When the model is finally built and evaluated, the activities can come back to the initial step, always trying to reach the desired performance.
 

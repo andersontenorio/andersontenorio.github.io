@@ -20,31 +20,31 @@ O arXiv (pronuncia-se em inglês “arquive”) é um repositório de e-prints (
 
 Cada uma das grandes áreas são divididas em um bom número de subcampos. Abaixo, os subcampos disponíveis em Ciência da Computação.
 
-![arxiv](../../assets/img/posts/arxiv.png)
+![arxiv](/assets/img/posts/arxiv.png)
 
-Um ponto controverso no arXiv é o considerável número de trabalhos submetidos diariamente. Por exemplo, no dia em que estou escrevendo essa postagem, há 106 artigos apenas no campo de Machine Learning. Como acompanhar tudo isso é quase que impraticável, podemos usar alguns atalhos para acessar os artigos supostamente mais importantes. Esse é o trabalho do [arXiv Sanity](http://www.arxiv-sanity.com/) (nome sugestivo, por sinal). Baseado em feedbacks dos usuários, o arXiv Sanity é capaz de apresentar com um maior destaque os trabalhos mais bem avaliados, além de mostrar de maneira mais amigável imagens do artigo e seus respectivos resumos. Adicionalmente, desde que você esteja logado, é possível adicionar alguns artigos na sua lista de leitura, o que possibilita recomendações da própria plataforma. O [vídeo](https://www.youtube.com/watch?v=S2GY3gh6qC8&feature=youtu.be&ab_channel=AndrejKarpathy) explicativo do autor esclarece mais algumas features. Importante salientar que o arXiv Sanity é focado apenas na área de IA e Ciência de Dados.
+Um ponto controverso no arXiv é o considerável número de trabalhos submetidos diariamente. Por exemplo, no dia em que estou escrevendo essa postagem, há 106 artigos apenas no campo de Machine Learning. Como acompanhar tudo isso é quase que impraticável, podemos usar alguns atalhos para acessar os artigos supostamente mais importantes. Esse é o trabalho do [arXiv Sanity](https://www.arxiv-sanity.com/) (nome sugestivo, por sinal). Baseado em feedbacks dos usuários, o arXiv Sanity é capaz de apresentar com um maior destaque os trabalhos mais bem avaliados, além de mostrar de maneira mais amigável imagens do artigo e seus respectivos resumos. Adicionalmente, desde que você esteja logado, é possível adicionar alguns artigos na sua lista de leitura, o que possibilita recomendações da própria plataforma. O [vídeo](https://www.youtube.com/watch?v=S2GY3gh6qC8&feature=youtu.be&ab_channel=AndrejKarpathy) explicativo do autor esclarece mais algumas features. Importante salientar que o arXiv Sanity é focado apenas na área de IA e Ciência de Dados.
 
 ## DeepAI
 
 Aqui as coisas ficam mais simples. O DeepAi é um site agregador de artigos influentes e notícias da mídia tradicional quando o assunto é Inteligência Artificial. Como pode ser visto na imagem abaixo, baseado no feedback dos usuários, o site mostra notícias e artigos acadêmicos que estão em destaque nos últimos dias.
 
-![deepai](../../assets/img/posts/deepai.png)
+![deepai](/assets/img/posts/deepai.png)
 
 Uma seção que eu considero importante é aba de “Definições”. Nela, é possível encontrar explicações concisas sobre tópicos importantes em IA, como o Teorema de Bayes ou o básico de redes neurais.
 
-![deepai_neuralnetwork](../../assets/img/posts/deepai_neuralnetwork.png)
+![deepai_neuralnetwork](/assets/img/posts/deepai_neuralnetwork.png)
 
 ## Papers with Code
 
 O nome [Papers with Code](https://paperswithcode.com/sota) é sugestivo. O site, também a partir do feedback dos próprios usuários, indica artigos acadêmicos nos mais variados subcampos de Data Science (e também em alguns tópicos adicionais), preferencialmente com código-fonte e base de dados disponíveis. A plataforma também agrega alguns placares com o desempenho de variadas soluções para um mesmo problema. Abaixo, dois trabalhos da seção “séries temporais”.
 
-![paperswithcode](../../assets/img/posts/paperswithcode.png)
+![paperswithcode](/assets/img/posts/paperswithcode.png)
 
 ## Mendeley
 
 O [Mendeley](https://www.mendeley.com/) é o que eu chamo de rede social dos pesquisadores. Dentre outras features, a plataforma inclui a criação de um perfil, listagem de artigos publicados, inclusão de grupos de pesquisa e listagem de vagas de empregos relacionados. O que interessa para essa postagem é a aba de sugestão. Quando o usuário adiciona alguns artigos (em formato PDF) na seção “library”, como um repositório próprio de leitura, a plataforma passa a sugerir trabalhos semelhantes. Eu tenho usado o Mendely para organizar a pilha de leituras. Dá pra fazer isso tanto na versão web como também no app para dispositivos móveis. Abaixo, o estado atual da minha “biblioteca”.
 
-![mendeley](../../assets/img/posts/mendeley.png)
+![mendeley](/assets/img/posts/mendeley.png)
 
 Por sinal, me [segue](https://www.mendeley.com/profiles/anderson-sergio/) lá.
 
