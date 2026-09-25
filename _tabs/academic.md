@@ -55,6 +55,8 @@ de Albuquerque, R.A.L.. [Uso de Aprendizado de Máquinas para Otimizar as Decis�
 
 ## Publications
 
+SERGIO, A. T.; GAMA NETO, M. V.; DAVINO, J. H. M.; FLORÊNCIO, L.. [Um Método para Previsão de Desligamentos em Subestações de Energia Elétrica a partir de Logs em Sistemas de Supervisão e Aquisição de Dados](/assets/pdf/Paper_2019_UmMetodoParaPrevisaoDeDesligamentosEmSubestacoes.pdf). XIII Simpósio de Automação de Sistemas Elétricos (SIMPASE), 2019.
+
 SERGIO, A. T.; LIMA, Tiago P. F.; LUDERMIR, T. B.. [Dynamic Selection of Forecast Combiners](/assets/pdf/Paper_2016_Dynamicselectionofforecastcombiners.pdf). Neurocomputing 218 (2016): 37-50.
 
 SERGIO, A. T.; LUDERMIR, T. B.. [Deep Learning for Wind Speed Forecasting in Northeastern Region of Brasil](/assets/pdf/Paper_2015_DeepLearningforWindSpeedForecastinginNortheasternRegionofBrasil.pdf). Brazilian Conference on Intelligent Systems (BRACIS), 2015.
