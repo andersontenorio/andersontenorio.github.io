@@ -40,11 +40,11 @@ Thesis: [Computational Modeling of Alzheimer's Disease Symptoms Using Venn's Net
 
 de Albuquerque, R.A.L.. [Uso de Aprendizado de Máquinas para Otimizar as Decisões Relativas a Investimentos Imbobiliários Residenciais (in portuguese)](/assets/pdf/Thesis_2024_RodrigoAntonioLiraDeAlbuquerque.pdf). 2024. Bachelor's Degree in Computer Science – CESAR School, Recife.
 
-Ventura, J.V.P.. Estado da Arte de Machine Learning Aplicado à Otimização de Topologias Tridimensionais (in portuguese). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
+Ventura, J.V.P.. [Estado da Arte de Machine Learning Aplicado à Otimização de Topologias Tridimensionais (in portuguese)](/assets/pdf/Thesis_2025_JoaoVitorPereiraVentura.pdf). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
 
-da Cruz, L.H.C.. Previsão da Direção dos Retornos de Ações do IBOVESPA com Aprendizado de Máquina (in portuguese). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
+da Cruz, L.H.C.. [Previsão da Direção dos Retornos de Ações do IBOVESPA com Aprendizado de Máquina (in portuguese)](/assets/pdf/Thesis_2025_LuisHenriqueCarvalhoDaCruz.pdf). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
 
-Vasconcelos, G.C.. Detecção de Emoções Utilizando Áudio com Deep Learning (in portuguese). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
+Vasconcelos, G.C.. [Detecção de Emoções Utilizando Áudio com Deep Learning (in portuguese)](/assets/pdf/Thesis_2025_GabrielDeCarvalhoVasconcelos.pdf). 2025. Bachelor's Degree in Computer Science – CESAR School, Recife.
 
 ## Publications
 
