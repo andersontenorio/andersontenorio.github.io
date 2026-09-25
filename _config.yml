@@ -58,7 +58,9 @@ assets:
 pwa:
   enabled: true
   cache:
-    enabled: true
+    # Keep offline caching disabled so returning visitors always receive the
+    # current GitHub Pages deployment instead of a stale service-worker copy.
+    enabled: false
     deny_paths:
 
 paginate: 10
