@@ -19,7 +19,7 @@ permalink: /tabs/personal/
 <br/>
 <br/>
 - Personal interests
-    - Computing (Data Analytics, Programming)
+    - Computing (AI, Data Science)
     - History and Politics
     - Geek
         - Movies (Pulp Fiction, The Matrix, 2001, Cabra Marcado Para Morrer)
