@@ -5,45 +5,30 @@ order: 3
 permalink: /tabs/professional/
 ---
 
-## Experience
+**Technical Data Scientist Manager** at [CESAR](https://english.cesar.org.br/), since May/2024<br/>
+Location: Recife, Pernambuco, Brazil — Hybrid<br/>
+Responsibilities: Data preparation and visualization, predictive modeling, communication of data-driven insights, project roadmap definition, team mentoring, and career guidance<br/>
+Main Competencies: Data Science, Machine Learning, Data Visualization, Predictive Modeling, Technical Leadership, and Mentoring
 
-### [CESAR](https://english.cesar.org.br/)
+**Professor and Advisor** at [CESAR School](https://www.cesar.school/), since Jan/2025<br/>
+Programs: Professional Master's and Doctoral Programs in Software Engineering<br/>
+Competences: Teaching and advising postgraduate students
 
-**Technical Data Scientist Manager** — May 2024 to Present<br/>
-Recife, Pernambuco, Brazil — Hybrid
+**Academic Coordinator** at [CESAR School](https://www.cesar.school/), since Sep/2024<br/>
+Programs: Postgraduate Certificate Programs in Data Analysis and AI, and Business Innovation<br/>
+Competences: Academic Administration and Program Coordination
 
-As a Data Scientist, I work on a project for a global big tech company, preparing data for visualization, developing models to predict future behaviors, and communicating data-driven insights directly to the customer.
+**Professor** at [CESAR School](https://www.cesar.school/), since Aug/2024<br/>
+Program: Bachelor's Degree in Computer Science<br/>
+Course: Deep Learning and Large Language Models
 
-As a Technical Manager, I define project roadmaps alongside the customer, mentor the team, and guide and support team members in their careers.
+**Agile Coach** at [Talkdesk](https://www.talkdesk.com/), Feb/2022 to Apr/2024<br/>
+Location: Coimbra, Portugal<br/>
+Competences: Scrum Master, Agile Practices, Team Productivity, and Team Engagement
 
-Main competencies: Data Science, Machine Learning, Data Visualization, Predictive Modeling, Technical Leadership, and Mentoring.
-
-### [CESAR School](https://www.cesar.school/)
-
-Recife, Pernambuco, Brazil
-
-**Professor and Advisor** — Jan 2025 to Present<br/>
-Professional Master's and Doctoral Programs in Software Engineering. Responsible for teaching and advising postgraduate students.
-
-**Academic Coordinator** — Sep 2024 to Present<br/>
-Academic Coordinator for two Postgraduate Certificate Programs: Data Analysis and AI, and Business Innovation.
-
-**Professor** — Aug 2024 to Present<br/>
-Bachelor's Degree in Computer Science. Currently teaching Deep Learning and Large Language Models.
-
-### [Talkdesk](https://www.talkdesk.com/)
-
-Coimbra, Portugal — Full-time
-
-**Agile Coach** — Feb 2022 to Apr 2024<br/>
-Alongside my role as a Data Scientist, I served as the Scrum Master for my team, applying and tracking agile practices to foster a more productive and enjoyable work environment.
-
-**Data Scientist** — Jun 2020 to Apr 2024<br/>
-Developed time series forecasting solutions for Workforce Management software, providing call-volume predictions that enabled supervisors to staff and schedule call center agents.
-
-Main technologies: Python, scikit-learn, Java, Machine Learning, and Time Series Forecasting.
-
-## Previous Experience
+**Data Scientist** at [Talkdesk](https://www.talkdesk.com/), Jun/2020 to Apr/2024<br/>
+Competences: Time Series Forecasting for Workforce Management, Call-Volume Prediction, Staffing, and Scheduling<br/>
+Main Technologies: Python, scikit-learn, Java, Machine Learning, and Time Series Forecasting
 
 **Professor** at [CESAR School](https://www.cesar.school/), Feb/2020 to Jul/2020<br/>
 Program: Computer Science<br/>
