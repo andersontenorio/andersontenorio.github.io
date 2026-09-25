@@ -10,24 +10,20 @@ Location: Recife, Pernambuco, Brazil — Hybrid<br/>
 Responsibilities: Data preparation and visualization, predictive modeling, communication of data-driven insights, project roadmap definition, team mentoring, and career guidance<br/>
 Main Competencies: Data Science, Machine Learning, Data Visualization, Predictive Modeling, Technical Leadership, and Mentoring
 
-**Professor and Advisor** at [CESAR School](https://www.cesar.school/), since Jan/2025<br/>
-Programs: Professional Master's and Doctoral Programs in Software Engineering<br/>
-Competences: Teaching and advising postgraduate students
+**Professor and Advisor, Academic Coordinator, and Professor** at [CESAR School](https://www.cesar.school/), since Aug/2024<br/>
+Positions:
 
-**Academic Coordinator** at [CESAR School](https://www.cesar.school/), since Sep/2024<br/>
-Programs: Postgraduate Certificate Programs in Data Analysis and AI, and Business Innovation<br/>
-Competences: Academic Administration and Program Coordination
+- **Professor and Advisor**, since Jan/2025 — Professional Master's and Doctoral Programs in Software Engineering; teaching and advising postgraduate students
+- **Academic Coordinator**, since Sep/2024 — Postgraduate Certificate Programs in Data Analysis and AI, and Business Innovation; academic administration and program coordination
+- **Professor**, since Aug/2024 — Bachelor's Degree in Computer Science; Deep Learning and Large Language Models
 
-**Professor** at [CESAR School](https://www.cesar.school/), since Aug/2024<br/>
-Program: Bachelor's Degree in Computer Science<br/>
-Course: Deep Learning and Large Language Models
-
-**Agile Coach** at [Talkdesk](https://www.talkdesk.com/), Feb/2022 to Apr/2024<br/>
+**Agile Coach and Data Scientist** at [Talkdesk](https://www.talkdesk.com/), Jun/2020 to Apr/2024<br/>
 Location: Coimbra, Portugal<br/>
-Competences: Scrum Master, Agile Practices, Team Productivity, and Team Engagement
+Positions:
 
-**Data Scientist** at [Talkdesk](https://www.talkdesk.com/), Jun/2020 to Apr/2024<br/>
-Competences: Time Series Forecasting for Workforce Management, Call-Volume Prediction, Staffing, and Scheduling<br/>
+- **Agile Coach**, Feb/2022 to Apr/2024 — Scrum Master, Agile Practices, Team Productivity, and Team Engagement
+- **Data Scientist**, Jun/2020 to Apr/2024 — Time Series Forecasting for Workforce Management, Call-Volume Prediction, Staffing, and Scheduling
+
 Main Technologies: Python, scikit-learn, Java, Machine Learning, and Time Series Forecasting
 
 **Professor** at [CESAR School](https://www.cesar.school/), Feb/2020 to Jul/2020<br/>

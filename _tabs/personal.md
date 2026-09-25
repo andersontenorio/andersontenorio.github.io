@@ -15,7 +15,7 @@ permalink: /tabs/personal/
 - PhD in Computer Science (see more on the [Academic](/tabs/academic/) page)
 <br/>
 <br/>
-- Data Scientist and Software Engineer (see more on the [Professional](/tabs/professional/) page)
+- Data Scientist Manager and AI and Machine Learning Researcher (see more on the [Professional](/tabs/professional/) page)
 <br/>
 <br/>
 - Personal interests
