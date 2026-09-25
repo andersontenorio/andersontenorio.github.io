@@ -15,7 +15,7 @@ Positions:
 
 - **Professor and Advisor**, since Jan/2025 — Professional Master's and Doctoral Programs in Software Engineering; teaching and advising postgraduate students
 - **Academic Coordinator**, since Sep/2024 — Postgraduate Certificate Programs in Data Analysis and AI, and Business Innovation; academic administration and program coordination
-- **Professor**, since Aug/2024 — Bachelor's Degree in Computer Science; Deep Learning and Large Language Models
+- **Professor**, Aug/2024 to Jul/2025 — Bachelor's Degree in Computer Science; Deep Learning and Large Language Models
 
 **Agile Coach and Data Scientist** at [Talkdesk](https://www.talkdesk.com/), Jun/2020 to Apr/2024<br/>
 Location: Coimbra, Portugal<br/>
