@@ -1,7 +1,7 @@
 ---
 title: Personal
 icon: fas fa-user
-order: 5
+order: 1
 permalink: /tabs/personal/
 ---
 

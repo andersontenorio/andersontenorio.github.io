@@ -1,7 +1,7 @@
 ---
 title: Professional
 icon: fas fa-briefcase
-order: 7
+order: 3
 permalink: /tabs/professional/
 ---
 
