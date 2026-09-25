@@ -5,24 +5,54 @@ lang: en
 timezone: America/Recife
 
 title: Anderson Tenório
-tagline: Random stuff
+tagline: AI, Data Science & Machine Learning
 description: >-
-  Just another ship in the space.
+  Anderson Tenório is a Data Scientist Manager, AI researcher, professor, and
+  advisor. Articles on data science, machine learning, academia, and other
+  interests.
 url: "https://andersontenorio.github.io"
 
 github:
   username: andersontenorio
 
-twitter:
-  username: andersontenorio
-
 social:
-  name: Anderson Tenório Sergio
+  name: Anderson Tenório
   email: anderson.sergio@gmail.com
   links:
-    - https://twitter.com/andersontenorio
     - https://github.com/andersontenorio
-    - https://www.linkedin.com/in/andersontenorios
+    - https://www.linkedin.com/in/andersontenorios/
+    - https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4131016Z6
+    - https://scholar.google.com.br/citations?user=DBU2CLAAAAAJ&hl=pt-BR
+
+person:
+  name: Anderson Tenório
+  alternate_name: Anderson Tenório Sergio
+  job_titles:
+    - Technical Data Scientist Manager
+    - AI and Machine Learning Researcher
+    - Professor, Advisor, and Academic Coordinator
+  works_for:
+    - name: CESAR
+      url: https://english.cesar.org.br/
+    - name: CESAR School
+      url: https://www.cesar.school/
+  alumni_of:
+    - name: Federal University of Pernambuco
+      url: https://www.ufpe.br/
+    - name: University of Pernambuco
+      url: https://www.upe.br/
+  knows_about:
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Science
+    - Deep Learning
+    - Generative AI
+    - Time Series Forecasting
+  same_as:
+    - https://github.com/andersontenorio
+    - https://www.linkedin.com/in/andersontenorios/
+    - https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4131016Z6
+    - https://scholar.google.com.br/citations?user=DBU2CLAAAAAJ&hl=pt-BR
 
 webmaster_verifications:
   google:

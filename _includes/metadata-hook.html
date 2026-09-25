@@ -1,0 +1,39 @@
+{% if page.url == '/' and site.person %}
+  {% assign canonical_home = '/' | absolute_url %}
+  {% assign person_id = canonical_home | append: '#person' %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ site.person.name | jsonify }},
+      "alternateName": {{ site.person.alternate_name | jsonify }},
+      "url": {{ canonical_home | jsonify }},
+      "jobTitle": {{ site.person.job_titles | jsonify }},
+      "worksFor": [
+        {% for organization in site.person.works_for %}
+          {
+            "@type": "Organization",
+            "name": {{ organization.name | jsonify }},
+            "url": {{ organization.url | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ],
+      "alumniOf": [
+        {% for institution in site.person.alumni_of %}
+          {
+            "@type": "EducationalOrganization",
+            "name": {{ institution.name | jsonify }},
+            "url": {{ institution.url | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ],
+      "knowsAbout": {{ site.person.knows_about | jsonify }},
+      "sameAs": {{ site.person.same_as | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ canonical_home | jsonify }}
+      }
+    }
+  </script>
+{% endif %}

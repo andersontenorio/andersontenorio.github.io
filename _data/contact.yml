@@ -3,8 +3,17 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/andersontenorios/"
+
+- type: google-scholar
+  icon: "fa-brands fa-google-scholar"
+  url: "https://scholar.google.com.br/citations?user=DBU2CLAAAAAJ&hl=pt-BR"
+
+- type: lattes
+  icon: "fas fa-id-card"
+  url: "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4131016Z6"
 
 - type: email
   icon: "fas fa-envelope"
@@ -18,10 +27,6 @@
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
