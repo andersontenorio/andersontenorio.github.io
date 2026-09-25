@@ -8,9 +8,12 @@ permalink: /tabs/academic/
 ## Research Interests
 
 - Artificial Intelligence
-- Artificial Neural Networks
-- Hybrid Intelligent Systems
 - Machine Learning
+- Deep Learning
+- Artificial Neural Networks
+- Generative AI
+- Agentic AI
+- Hybrid Intelligent Systems
 - Data Science
 - Time Series Forecasting
 - Evolutionary Computation
