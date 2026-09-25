@@ -1,0 +1,8 @@
+---
+permalink: /robots.txt
+---
+
+User-agent: *
+Allow: /
+
+Sitemap: https://andersontenorio.github.io/sitemap.xml
