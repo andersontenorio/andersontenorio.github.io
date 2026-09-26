@@ -149,7 +149,6 @@ exclude:
   - "*.gemspec"
   - README.md
   - LICENSE
-  - santa-cruz-history
 
 jekyll-archives:
   enabled: [categories, tags]
