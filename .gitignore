@@ -7,3 +7,9 @@ vendor/
 node_modules/
 .DS_Store
 .idea/
+
+# Santa Cruz history project: local and generated artifacts
+santa-cruz-history/data/exports/*
+!santa-cruz-history/data/exports/README.md
+santa-cruz-history/data/database/*.sqlite3-*
+santa-cruz-history/data/database/*.db-*

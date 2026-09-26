@@ -18,3 +18,9 @@ Before publishing, create and verify a production build:
 JEKYLL_ENV=production bundle exec jekyll build
 bundle exec htmlproofer _site --disable-external
 ```
+
+## Santa Cruz historical data
+
+The repository also contains the planned structure for the Santa Cruz match
+history database and its future web application. See
+[`santa-cruz-history/README.md`](santa-cruz-history/README.md).
