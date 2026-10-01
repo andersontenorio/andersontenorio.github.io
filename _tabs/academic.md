@@ -41,6 +41,8 @@ Thesis: [Computational Modeling of Alzheimer's Disease Symptoms Using Venn's Net
 
 ### Master's Dissertations
 
+Assis, J.S.. [Inteligência Artificial Aplicada à Classificação Preditiva da Criticidade Processual no Tribunal de Justiça de Pernambuco: Uma Abordagem com Machine Learning e Métricas Compostas para Apoio à Gestão Judicial (in portuguese)](/assets/pdf/Dissertation_2026_JulianoSouzaDeAssis.pdf). 2026. Master's Degree in Software Engineering – CESAR School, Recife.
+
 Ferreira Junior, F.J.. [Extração de Endereços em Processos de Usucapião com LLMs (in portuguese)](/assets/pdf/Dissertation_2026_FlavioJoseFerreiraJunior.pdf). 2026. Master's Degree in Software Engineering – CESAR School, Recife.
 
 ### Undergraduate Theses
