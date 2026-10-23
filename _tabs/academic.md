@@ -59,6 +59,14 @@ de Albuquerque, R.A.L.. [Uso de Aprendizado de Máquinas para Otimizar as Decis�
 
 ## Publications
 
+ANDRADE, P.; SERGIO, A. T.. [Cross–Biome Evaluation of Deep Learning Architectures for Semantic Segmentation of Deforestation in the Amazon and Caatinga](/assets/pdf/Paper_2027_CrossBiomeEvaluationofDeepLearningArchitecturesforSemanticSegmentationofDeforestationintheAmazonandCaatinga.pdf). Intelligent Systems, LNCS, vol. 17109, pp. 624–639, Springer, 2027 (BRACIS 2026). [DOI](https://doi.org/10.1007/978-3-032-39904-5_42).
+
+OLIVEIRA, E. V.; SERGIO, A. T.. [AUC Is Not Enough: A Utility-Aware Comparison of XGBoost and Multi-Task FT Variants for Proxy-Prescriptive Credit Modeling](/assets/pdf/Paper_2026_AUCIsNotEnoughAUtilityAwareComparisonofXGBoostandMultiTaskFTVariantsforProxyPrescriptiveCreditModeling.pdf). Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2026.
+
+PINHEIRO, L. S.; SERGIO, A. T.. [5LTEP-L4: An Open-Source CKAN Toolkit for Provenance-Enabled Observability of Open Government Data](/assets/pdf/Paper_2026_5LTEPL4AnOpenSourceCKANToolkitforProvenanceEnabledObservabilityofOpenGovernmentData.pdf). Workshop de Ferramentas e Aplicações (WFA), WebMedia, 2026.
+
+ASSIS, J. S.; SERGIO, A. T.. [Sistema preditivo de criticidade processual com LightGBM: validação temporal e priorização semanal sob capacidade limitada](/assets/pdf/Paper_2026_SistemaPreditivoDeCriticidadeProcessualComLightGBM.pdf). XV Simpósio Brasileiro de Tecnologia da Informação (SBTI), 2026.
+
 SERGIO, A. T.; GAMA NETO, M. V.; DAVINO, J. H. M.; FLORÊNCIO, L.. [Um Método para Previsão de Desligamentos em Subestações de Energia Elétrica a partir de Logs em Sistemas de Supervisão e Aquisição de Dados](/assets/pdf/Paper_2019_UmMetodoParaPrevisaoDeDesligamentosEmSubestacoes.pdf). XIII Simpósio de Automação de Sistemas Elétricos (SIMPASE), 2019.
 
 SERGIO, A. T.; LIMA, Tiago P. F.; LUDERMIR, T. B.. [Dynamic Selection of Forecast Combiners](/assets/pdf/Paper_2016_Dynamicselectionofforecastcombiners.pdf). Neurocomputing 218 (2016): 37-50.
