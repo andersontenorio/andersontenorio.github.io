@@ -65,7 +65,7 @@ OLIVEIRA, E. V.; SERGIO, A. T.. [AUC Is Not Enough: A Utility-Aware Comparison o
 
 PINHEIRO, L. S.; SERGIO, A. T.. [5LTEP-L4: An Open-Source CKAN Toolkit for Provenance-Enabled Observability of Open Government Data](/assets/pdf/Paper_2026_5LTEPL4AnOpenSourceCKANToolkitforProvenanceEnabledObservabilityofOpenGovernmentData.pdf). Workshop de Ferramentas e Aplicações (WFA), WebMedia, 2026.
 
-ASSIS, J. S.; SERGIO, A. T.. [Sistema preditivo de criticidade processual com LightGBM: validação temporal e priorização semanal sob capacidade limitada](/assets/pdf/Paper_2026_SistemaPreditivoDeCriticidadeProcessualComLightGBM.pdf). XV Simpósio Brasileiro de Tecnologia da Informação (SBTI), 2026.
+ASSIS, J. S.; SERGIO, A. T.. [Sistema preditivo de criticidade processual com LightGBM: validação temporal e priorização semanal sob capacidade limitada (in portuguese)](/assets/pdf/Paper_2026_SistemaPreditivoDeCriticidadeProcessualComLightGBM.pdf). XV Simpósio Brasileiro de Tecnologia da Informação (SBTI), 2026.
 
 SERGIO, A. T.; GAMA NETO, M. V.; DAVINO, J. H. M.; FLORÊNCIO, L.. [Um Método para Previsão de Desligamentos em Subestações de Energia Elétrica a partir de Logs em Sistemas de Supervisão e Aquisição de Dados](/assets/pdf/Paper_2019_UmMetodoParaPrevisaoDeDesligamentosEmSubestacoes.pdf). XIII Simpósio de Automação de Sistemas Elétricos (SIMPASE), 2019.
 
