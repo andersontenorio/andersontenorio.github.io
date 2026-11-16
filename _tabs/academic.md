@@ -61,7 +61,7 @@ de Albuquerque, R.A.L.. [Uso de Aprendizado de Máquinas para Otimizar as Decis�
 
 ANDRADE, P.; SERGIO, A. T.. [Cross–Biome Evaluation of Deep Learning Architectures for Semantic Segmentation of Deforestation in the Amazon and Caatinga](/assets/pdf/Paper_2027_CrossBiomeEvaluationofDeepLearningArchitecturesforSemanticSegmentationofDeforestationintheAmazonandCaatinga.pdf). Intelligent Systems, LNCS, vol. 17109, pp. 624–639, Springer, 2027 (BRACIS 2026). [DOI](https://doi.org/10.1007/978-3-032-39904-5_42).
 
-OLIVEIRA, E. V.; SERGIO, A. T.. [AUC Is Not Enough: A Utility-Aware Comparison of XGBoost and Multi-Task FT Variants for Proxy-Prescriptive Credit Modeling](https://sol.sbc.org.br/index.php/eniac/article/view/46969). Anais do XXIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), pp. 2313–2324, Sociedade Brasileira de Computação, 2026. [DOI](https://doi.org/10.5753/eniac.2026.31575).
+OLIVEIRA, E. V.; SERGIO, A. T.. [AUC Is Not Enough: A Utility-Aware Comparison of XGBoost and Multi-Task FT Variants for Proxy-Prescriptive Credit Modeling](https://sol.sbc.org.br/index.php/eniac/article/view/46969). Anais do XXIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), pp. 2313–2324, Sociedade Brasileira de Computação, 2026. [PDF](https://sol.sbc.org.br/index.php/eniac/article/download/46969/46726).
 
 PINHEIRO, L. S.; SERGIO, A. T.. [5LTEP-L4: An Open-Source CKAN Toolkit for Provenance-Enabled Observability of Open Government Data](/assets/pdf/Paper_2026_5LTEPL4AnOpenSourceCKANToolkitforProvenanceEnabledObservabilityofOpenGovernmentData.pdf). Workshop de Ferramentas e Aplicações (WFA), WebMedia, 2026.
 
